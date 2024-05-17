@@ -7,10 +7,10 @@
     <a href="{base}/mineralogy">
         <Heading2 text="Mineralogy"></Heading2>
     </a>
-    <a href="{base}/">
+    <a href="{base}/optical-mineralogy">
         <Heading2 text="Optical Mineralogy"></Heading2>
     </a>
-    <a href="{base}/">
+    <a href="{base}/crystallography">
         <Heading2 text="Crystallography"></Heading2>
     </a>
 </main>
