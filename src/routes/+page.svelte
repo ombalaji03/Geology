@@ -1,16 +1,19 @@
 <script>
     import { base } from "$app/paths";
-    import Heading2 from "$lib/components/headings/Heading2.svelte";
+    import HeadingX from "$lib/components/headings/HeadingX.svelte";
 </script>
 
 <main>
     <a href="{base}/mineralogy">
-        <Heading2 text="Mineralogy"></Heading2>
+        <HeadingX text="Mineralogy" color="bg-[#d8dee9]" size="text-2xl"
+        ></HeadingX>
     </a>
     <a href="{base}/optical-mineralogy">
-        <Heading2 text="Optical Mineralogy"></Heading2>
+        <HeadingX text="Optical Mineralogy" color="bg-[#d8dee9]" size="text-2xl"
+        ></HeadingX>
     </a>
     <a href="{base}/crystallography">
-        <Heading2 text="Crystallography"></Heading2>
+        <HeadingX text="Crystallography" color="bg-[#d8dee9]" size="text-2xl"
+        ></HeadingX>
     </a>
 </main>
