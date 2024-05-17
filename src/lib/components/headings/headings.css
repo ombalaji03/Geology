@@ -1,0 +1,13 @@
+@tailwind base;
+
+@layer base {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    div {
+        @apply bg-[#2e3440];
+        font-family: "Rubik", sans-serif;
+    }
+}
