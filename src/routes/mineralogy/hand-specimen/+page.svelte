@@ -3,7 +3,7 @@
     import Card from "$lib/components/Card.svelte";
 </script>
 
-<main>
+<main class="pb-0">
     <a href="{base}/mineralogy/hand-specimen/quartz">
         <Card
             text="Quartz"
