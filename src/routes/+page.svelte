@@ -5,15 +5,15 @@
 
 <main>
     <a href="{base}/mineralogy">
-        <HeadingX text="Mineralogy" color="bg-[#d8dee9]" size="text-2xl"
+        <HeadingX text="Mineralogy" color="bg-light0" size="text-2xl"
         ></HeadingX>
     </a>
     <a href="{base}/optical-mineralogy">
-        <HeadingX text="Optical Mineralogy" color="bg-[#d8dee9]" size="text-2xl"
+        <HeadingX text="Optical Mineralogy" color="bg-light0" size="text-2xl"
         ></HeadingX>
     </a>
     <a href="{base}/crystallography">
-        <HeadingX text="Crystallography" color="bg-[#d8dee9]" size="text-2xl"
+        <HeadingX text="Crystallography" color="bg-light0" size="text-2xl"
         ></HeadingX>
     </a>
 </main>

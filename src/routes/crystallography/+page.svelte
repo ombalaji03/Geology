@@ -3,6 +3,6 @@
 </script>
 
 <main>
-    <HeadingX text="Work in Progress" color="bg-[#ebcb8b]" size="text-2xl"
+    <HeadingX text="Work in Progress" color="bg-yellow" size="text-2xl"
     ></HeadingX>
 </main>

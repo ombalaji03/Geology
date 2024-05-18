@@ -6,7 +6,7 @@
 </script>
 
 <div class="mb-4 pl-2 {color} drop-shadow-lg">
-    <h1 class="p-4 {size} font-bold border-[1px] border-[#3b4252]">
+    <h1 class="p-4 {size} font-bold border-[1px] border-dark1">
         {text}
     </h1>
 </div>
