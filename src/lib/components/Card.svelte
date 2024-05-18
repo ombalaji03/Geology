@@ -7,6 +7,6 @@
 </script>
 
 <div class="mb-4">
-    <img src={url} alt="" class="block h-60 w-fit" />
+    <img src={url} alt="" class="block h-60 w-full" />
     <HeadingX {text} {color} {size}></HeadingX>
 </div>
