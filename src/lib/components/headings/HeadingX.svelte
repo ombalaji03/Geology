@@ -1,8 +1,8 @@
 <script>
     import "./headings.css";
+    export let text;
     export let color;
     export let size;
-    export let text;
 </script>
 
 <div class="mb-4 pl-2 {color} drop-shadow-lg">
