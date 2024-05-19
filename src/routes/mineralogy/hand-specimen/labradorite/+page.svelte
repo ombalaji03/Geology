@@ -12,7 +12,7 @@
         Cleavage: "2 sets",
         Fracture: "conchoidal",
         "Specific Gravity": "2.70 (low)",
-        "Chemical Composition": "(Ca, Na)(Al, Si)4o8",
+        "Chemical Composition": "(Ca, Na)(Al, Si)4O8",
         "Crystal System": "triclinic",
         "Diagnostic Properties":
             "hardness of 6, 2 sets of cleavage, conchoidal fractures",
