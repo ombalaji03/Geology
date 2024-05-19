@@ -69,33 +69,41 @@
         ></Card>
     </a>
 
-    <Card
-        text="Nepheline"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://cdn.britannica.com/45/9845-050-8AEA1E91/Nepheline-Litchfield-Maine.jpg"
-    ></Card>
+    <a href="{specimenPath}/nepheline">
+        <Card
+            text="Nepheline"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://cdn.britannica.com/45/9845-050-8AEA1E91/Nepheline-Litchfield-Maine.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Tremolite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Tremolite_Campolungo.jpg"
-    ></Card>
+    <a href="{specimenPath}/Tremolite">
+        <Card
+            text="Tremolite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Tremolite_Campolungo.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Augite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augite_Rwanda.jpg/1920px-Augite_Rwanda.jpg"
-    ></Card>
+    <a href="{specimenPath}/augite">
+        <Card
+            text="Augite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augite_Rwanda.jpg/1920px-Augite_Rwanda.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Hornblende"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/9/96/Apatite-%28CaOH%29-Hornblende-38354.jpg"
-    ></Card>
+    <a href="{specimenPath}/hornblende">
+        <Card
+            text="Hornblende"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/9/96/Apatite-%28CaOH%29-Hornblende-38354.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Olivine"
