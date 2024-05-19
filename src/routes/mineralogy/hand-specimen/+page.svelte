@@ -175,12 +175,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Kyanite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/0/00/Kyanite_crystals.jpg"
-    ></Card>
+    <a href="{specimenPath}/kyanite">
+        <Card
+            text="Kyanite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/0/00/Kyanite_crystals.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Silimanite"
