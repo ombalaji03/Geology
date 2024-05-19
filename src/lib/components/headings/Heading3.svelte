@@ -1,5 +1,4 @@
 <script>
-    import "./headings.css";
     export let text;
 </script>
 
