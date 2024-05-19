@@ -230,12 +230,14 @@
         url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Chemical-composition-of-Corundum-2-jpeg.webp?resize=800%2C719&ssl=1"
     ></Card>
 
-    <Card
-        text="Gypsum"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://th.bing.com/th/id/OIP.qFwyaiBbVvvDWdqPdCMkXgHaHa?pid=ImgDet&rs=1"
-    ></Card>
+    <a href="{specimenPath}/gypsum">
+        <Card
+            text="Gypsum"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://th.bing.com/th/id/OIP.qFwyaiBbVvvDWdqPdCMkXgHaHa?pid=ImgDet&rs=1"
+        ></Card>
+    </a>
 
     <Card
         text="Bauxite"
