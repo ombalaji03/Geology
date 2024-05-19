@@ -51,19 +51,23 @@
         ></Card>
     </a>
 
-    <Card
-        text="Muscovite"
-        color="bg-light0"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/4d/a0/08550260014946249757259.jpg"
-    ></Card>
+    <a href="{specimenPath}/muscovite">
+        <Card
+            text="Muscovite"
+            color="bg-light0"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/4d/a0/08550260014946249757259.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Biotite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
-    ></Card>
+    <a href="{specimenPath}/biotite">
+        <Card
+            text="Biotite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Nepheline"
