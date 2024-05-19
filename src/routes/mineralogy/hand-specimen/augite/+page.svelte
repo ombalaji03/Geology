@@ -14,8 +14,7 @@
         "Specific Gravity": "3.2-3.4 (moderate)",
         "Chemical Composition": "",
         "Crystal System": "monoclinic",
-        "Diagnostic Properties":
-            "perfect two set cleavage",
+        "Diagnostic Properties": "perfect two set cleavage",
     };
 </script>
 
