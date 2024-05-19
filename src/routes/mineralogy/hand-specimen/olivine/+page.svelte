@@ -19,11 +19,11 @@
 </script>
 
 <main>
-    <Heading1 text="olivine"></Heading1>
+    <Heading1 text="Olivine"></Heading1>
 
     <Heading2 text="Physical Properties"></Heading2>
 
-    <PPTable mineral={hornblende}></PPTable>
+    <PPTable mineral={olivine}></PPTable>
 
     <Heading2 text="Remarks"></Heading2>
 
