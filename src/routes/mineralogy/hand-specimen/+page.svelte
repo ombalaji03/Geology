@@ -132,12 +132,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Apatite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://5.imimg.com/data5/EG/EA/UT/SELLER-14184655/green-apatite-1-500x500.jpg"
-    ></Card>
+    <a href="{specimenPath}/apatite">
+        <Card
+            text="Apatite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://5.imimg.com/data5/EG/EA/UT/SELLER-14184655/green-apatite-1-500x500.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Calcite"
