@@ -193,12 +193,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Andalusite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://mineralexpert.org/images/article-photos/andalusite/andalusite-lisens-austria-1280.jpg"
-    ></Card>
+    <a href="{specimenPath}/andalusite">
+        <Card
+            text="Andalusite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://mineralexpert.org/images/article-photos/andalusite/andalusite-lisens-austria-1280.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Staurolite"
