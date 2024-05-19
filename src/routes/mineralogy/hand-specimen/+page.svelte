@@ -184,12 +184,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Silimanite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/81/df/00515890016099875169665.jpg"
-    ></Card>
+    <a href="{specimenPath}/sillimanite">
+        <Card
+            text="Silimanite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/81/df/00515890016099875169665.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Andalusite"
