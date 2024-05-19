@@ -122,7 +122,7 @@
             url="https://cdn.britannica.com/49/127749-050-FA0DA38F/Talc.jpg"
         ></Card>
     </a>
-
+    <a href="{specimen path}/serpentine">
     <Card
         text="Serpentine"
         color="bg-dark2"
