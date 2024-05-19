@@ -223,12 +223,14 @@
         url="https://www.mindat.org/imagecache/74/2c/02085490014946247878918.jpg"
     ></Card>
 
-    <Card
-        text="Corundum"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Chemical-composition-of-Corundum-2-jpeg.webp?resize=800%2C719&ssl=1"
-    ></Card>
+    <a href="{specimenPath}/corundum">
+        <Card
+            text="Corundum"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Chemical-composition-of-Corundum-2-jpeg.webp?resize=800%2C719&ssl=1"
+        ></Card>
+    </a>
 
     <a href="{specimenPath}/gypsum">
         <Card
