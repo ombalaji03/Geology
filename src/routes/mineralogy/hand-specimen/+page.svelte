@@ -78,7 +78,7 @@
         ></Card>
     </a>
 
-    <a href="{specimenPath}/Tremolite">
+    <a href="{specimenPath}/tremolite">
         <Card
             text="Tremolite"
             color="bg-dark2"
