@@ -105,7 +105,7 @@
         ></Card>
     </a>
 
-    <a href="{specimenPath}/talc">
+    <a href="{specimenPath}/olivine">
         <Card
             text="Olivine"
             color="bg-dark2"
@@ -114,12 +114,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Talc"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://cdn.britannica.com/49/127749-050-FA0DA38F/Talc.jpg"
-    ></Card>
+    <a href="{specimenPath}/talc">
+        <Card
+            text="Talc"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://cdn.britannica.com/49/127749-050-FA0DA38F/Talc.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Serpentine"
