@@ -3,28 +3,27 @@
     import Heading2 from "$lib/components/headings/Heading2.svelte";
     import PPTable from "$lib/components/tables/PPTable.svelte";
 
-    const augite = {
-        Color: "black",
+    const hornblende = {
+        Color: "dark green",
         "Form/Habit": "massive",
         Lusture: "vitreous",
         Streak: "white",
         Hardness: "5-6",
         Cleavage: "perfect two sets",
         Fracture: "uneven",
-        "Specific Gravity": "3.2-3.4 (moderate)",
-        "Chemical Composition": "",
+        "Specific Gravity": "3.0-3.5 (moderate)",
+        "Chemical Composition": "Ca2(Fe, Mg, Al)5(Al, Si)8O22(OH)2",
         "Crystal System": "monoclinic",
-        "Diagnostic Properties":
-            "perfect two set cleavage",
+        "Diagnostic Properties": "perfect two set cleavage",
     };
 </script>
 
 <main>
-    <Heading1 text="augite"></Heading1>
+    <Heading1 text="Hornblende"></Heading1>
 
     <Heading2 text="Physical Properties"></Heading2>
 
-    <PPTable mineral={augite}></PPTable>
+    <PPTable mineral={hornblende}></PPTable>
 
     <Heading2 text="Remarks"></Heading2>
 
