@@ -122,123 +122,124 @@
             url="https://cdn.britannica.com/49/127749-050-FA0DA38F/Talc.jpg"
         ></Card>
     </a>
+    <a href="{specimenPath}/serpentine">
+        <Card
+            text="Serpentine"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/1/15/Talk_on_Serpentine.jpg"
+        ></Card>
 
-    <Card
-        text="Serpentine"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/1/15/Talk_on_Serpentine.jpg"
-    ></Card>
+        <Card
+            text="Apatite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://5.imimg.com/data5/EG/EA/UT/SELLER-14184655/green-apatite-1-500x500.jpg"
+        ></Card>
 
-    <Card
-        text="Apatite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://5.imimg.com/data5/EG/EA/UT/SELLER-14184655/green-apatite-1-500x500.jpg"
-    ></Card>
+        <Card
+            text="Calcite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://rukminim2.flixcart.com/image/850/1000/kybvo280/stone-pebble/y/l/b/100-1-natural-calcite-rough-crystal-stone-for-reiki-healing-and-original-imagah3swhtkhgxb.jpeg?q=20&crop=false"
+        ></Card>
 
-    <Card
-        text="Calcite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://rukminim2.flixcart.com/image/850/1000/kybvo280/stone-pebble/y/l/b/100-1-natural-calcite-rough-crystal-stone-for-reiki-healing-and-original-imagah3swhtkhgxb.jpeg?q=20&crop=false"
-    ></Card>
+        <Card
+            text="Dolomite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2018/04/Dolomite-white-with-magnesite-yellowish-from-Spain.jpg?resize=1024%2C796&ssl=1"
+        ></Card>
 
-    <Card
-        text="Dolomite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2018/04/Dolomite-white-with-magnesite-yellowish-from-Spain.jpg?resize=1024%2C796&ssl=1"
-    ></Card>
+        <Card
+            text="Kaolinite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg"
+        ></Card>
 
-    <Card
-        text="Kaolinite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg"
-    ></Card>
+        <Card
+            text="Garnet"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Garnet-3-917x1024.webp?resize=917%2C1024&ssl=1"
+        ></Card>
 
-    <Card
-        text="Garnet"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Garnet-3-917x1024.webp?resize=917%2C1024&ssl=1"
-    ></Card>
+        <Card
+            text="Kyanite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/0/00/Kyanite_crystals.jpg"
+        ></Card>
 
-    <Card
-        text="Kyanite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/0/00/Kyanite_crystals.jpg"
-    ></Card>
+        <Card
+            text="Silimanite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/81/df/00515890016099875169665.jpg"
+        ></Card>
 
-    <Card
-        text="Silimanite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/81/df/00515890016099875169665.jpg"
-    ></Card>
+        <Card
+            text="Andalusite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://mineralexpert.org/images/article-photos/andalusite/andalusite-lisens-austria-1280.jpg"
+        ></Card>
 
-    <Card
-        text="Andalusite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://mineralexpert.org/images/article-photos/andalusite/andalusite-lisens-austria-1280.jpg"
-    ></Card>
+        <Card
+            text="Staurolite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
+        ></Card>
 
-    <Card
-        text="Staurolite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
-    ></Card>
+        <Card
+            text="Topaz"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/05/Staurolite-37001.jpg?fit=450%2C548&ssl=1"
+        ></Card>
 
-    <Card
-        text="Topaz"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/05/Staurolite-37001.jpg?fit=450%2C548&ssl=1"
-    ></Card>
+        <Card
+            text="Tourmaline"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/74/2c/02085490014946247878918.jpg"
+        ></Card>
 
-    <Card
-        text="Tourmaline"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/74/2c/02085490014946247878918.jpg"
-    ></Card>
+        <Card
+            text="Corundum"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Chemical-composition-of-Corundum-2-jpeg.webp?resize=800%2C719&ssl=1"
+        ></Card>
 
-    <Card
-        text="Corundum"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Chemical-composition-of-Corundum-2-jpeg.webp?resize=800%2C719&ssl=1"
-    ></Card>
+        <Card
+            text="Gypsum"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://th.bing.com/th/id/OIP.qFwyaiBbVvvDWdqPdCMkXgHaHa?pid=ImgDet&rs=1"
+        ></Card>
 
-    <Card
-        text="Gypsum"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://th.bing.com/th/id/OIP.qFwyaiBbVvvDWdqPdCMkXgHaHa?pid=ImgDet&rs=1"
-    ></Card>
+        <Card
+            text="Bauxite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/fd/98/04540220014962291746620.jpg"
+        ></Card>
 
-    <Card
-        text="Bauxite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/fd/98/04540220014962291746620.jpg"
-    ></Card>
+        <Card
+            text="Graphite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://media.licdn.com/dms/image/C5612AQH3zjl4v37pWQ/article-cover_image-shrink_720_1280/0/1617000859630?e=2147483647&v=beta&t=K_6dwkQDhBPoZ_ELM64G-TwX8HJcUYKcGFIjBBSG-gQ"
+        ></Card>
 
-    <Card
-        text="Graphite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://media.licdn.com/dms/image/C5612AQH3zjl4v37pWQ/article-cover_image-shrink_720_1280/0/1617000859630?e=2147483647&v=beta&t=K_6dwkQDhBPoZ_ELM64G-TwX8HJcUYKcGFIjBBSG-gQ"
-    ></Card>
-
-    <Card
-        text="Magnesite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/79/75/01464910017055536519120.jpg"
-    ></Card>
+        <Card
+            text="Magnesite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/79/75/01464910017055536519120.jpg"
+        ></Card>
+    </a>
 </main>
