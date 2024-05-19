@@ -202,12 +202,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Staurolite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
-    ></Card>
+    <a href="{specimenPath}/staurolite">
+        <Card
+            text="Staurolite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
+        ></Card>
+    </a>
 
     <a href="{specimenPath}/topaz">
         <Card
