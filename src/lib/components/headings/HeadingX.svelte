@@ -6,7 +6,13 @@
 </script>
 
 <div class="mb-4 pl-2 {color} drop-shadow-lg">
-    <h1 class="p-4 {size} font-bold border-[1px] border-dark1">
+    <div class="p-4 bg-dark0 {size} font-bold border-[1px] border-dark1">
         {text}
-    </h1>
+    </div>
 </div>
+
+<style>
+    div {
+        font-family: "Rubik", sans-serif;
+    }
+</style>
