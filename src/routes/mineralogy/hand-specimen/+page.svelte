@@ -251,10 +251,12 @@
         url="https://media.licdn.com/dms/image/C5612AQH3zjl4v37pWQ/article-cover_image-shrink_720_1280/0/1617000859630?e=2147483647&v=beta&t=K_6dwkQDhBPoZ_ELM64G-TwX8HJcUYKcGFIjBBSG-gQ"
     ></Card>
 
-    <Card
-        text="Magnesite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://www.mindat.org/imagecache/79/75/01464910017055536519120.jpg"
-    ></Card>
+    <a href="{specimenPath}/magnesite">
+        <Card
+            text="Magnesite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://www.mindat.org/imagecache/79/75/01464910017055536519120.jpg"
+        ></Card>
+    </a>
 </main>
