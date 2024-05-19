@@ -157,12 +157,14 @@
         url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2018/04/Dolomite-white-with-magnesite-yellowish-from-Spain.jpg?resize=1024%2C796&ssl=1"
     ></Card>
 
-    <Card
-        text="Kaolinite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg"
-    ></Card>
+    <a href="{specimenPath}/kaolinite">
+        <Card
+            text="Kaolinite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Garnet"
