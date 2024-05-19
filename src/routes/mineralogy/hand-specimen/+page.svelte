@@ -244,12 +244,14 @@
         url="https://www.mindat.org/imagecache/fd/98/04540220014962291746620.jpg"
     ></Card>
 
-    <Card
-        text="Graphite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://media.licdn.com/dms/image/C5612AQH3zjl4v37pWQ/article-cover_image-shrink_720_1280/0/1617000859630?e=2147483647&v=beta&t=K_6dwkQDhBPoZ_ELM64G-TwX8HJcUYKcGFIjBBSG-gQ"
-    ></Card>
+    <a href="{specimenPath}/graphite">
+        <Card
+            text="Graphite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://media.licdn.com/dms/image/C5612AQH3zjl4v37pWQ/article-cover_image-shrink_720_1280/0/1617000859630?e=2147483647&v=beta&t=K_6dwkQDhBPoZ_ELM64G-TwX8HJcUYKcGFIjBBSG-gQ"
+        ></Card>
+    </a>
 
     <a href="{specimenPath}/magnesite">
         <Card
