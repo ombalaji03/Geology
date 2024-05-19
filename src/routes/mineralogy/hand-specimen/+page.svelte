@@ -141,12 +141,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Calcite"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://rukminim2.flixcart.com/image/850/1000/kybvo280/stone-pebble/y/l/b/100-1-natural-calcite-rough-crystal-stone-for-reiki-healing-and-original-imagah3swhtkhgxb.jpeg?q=20&crop=false"
-    ></Card>
+    <a href="{specimenPath}/calcite">
+        <Card
+            text="Calcite"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://rukminim2.flixcart.com/image/850/1000/kybvo280/stone-pebble/y/l/b/100-1-natural-calcite-rough-crystal-stone-for-reiki-healing-and-original-imagah3swhtkhgxb.jpeg?q=20&crop=false"
+        ></Card>
+    </a>
 
     <Card
         text="Dolomite"
