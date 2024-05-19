@@ -166,12 +166,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Garnet"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Garnet-3-917x1024.webp?resize=917%2C1024&ssl=1"
-    ></Card>
+    <a href="{specimenPath}/garnet">
+        <Card
+            text="Garnet"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/08/Garnet-3-917x1024.webp?resize=917%2C1024&ssl=1"
+        ></Card>
+    </a>
 
     <Card
         text="Kyanite"
