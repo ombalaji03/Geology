@@ -105,12 +105,14 @@
         ></Card>
     </a>
 
-    <Card
-        text="Olivine"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Gd9eGza4yRrgxOsQoTf3JK5D7WjZWylfDZO0T7Q012mCY-Tej0gwzUGUA9ssu1ZDEtulWqR6BTntWSn5kjBv09Iz_-ERCjXn_-HCD8H8WERG_eREnNa5-kHY6oxVXjaF7-rZllSOtDtg/s640-rw/Study+of+olivine+provides+new+data+for+measuring+earth%2527s+surface.jpg"
-    ></Card>
+    <a href="{specimenPath}/talc">
+        <Card
+            text="Olivine"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Gd9eGza4yRrgxOsQoTf3JK5D7WjZWylfDZO0T7Q012mCY-Tej0gwzUGUA9ssu1ZDEtulWqR6BTntWSn5kjBv09Iz_-ERCjXn_-HCD8H8WERG_eREnNa5-kHY6oxVXjaF7-rZllSOtDtg/s640-rw/Study+of+olivine+provides+new+data+for+measuring+earth%2527s+surface.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Talc"
