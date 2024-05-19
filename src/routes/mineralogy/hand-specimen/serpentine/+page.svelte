@@ -1,5 +1,3 @@
-+page.svelte
-```
 <script>
     import Heading1 from "$lib/components/headings/Heading1.svelte";
     import Heading2 from "$lib/components/headings/Heading2.svelte";
@@ -31,4 +29,3 @@
 
     <Heading2 text="Gallery"></Heading2>
 </main>
-```
