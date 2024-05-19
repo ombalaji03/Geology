@@ -3,28 +3,28 @@
     import Heading2 from "$lib/components/headings/Heading2.svelte";
     import PPTable from "$lib/components/tables/PPTable.svelte";
 
-    const quartz = {
-        Color: "white",
-        "Form/Habit": "prismatic",
+    const labradorite = {
+        Color: "grey",
+        "form/Habit": "crystalline massive",
         Lusture: "vitreous",
         Streak: "white",
-        Hardness: "7",
-        Cleavage: "absent",
+        Hardness: "6",
+        Cleavage: "2 sets",
         Fracture: "conchoidal",
-        "Specific Gravity": "low",
-        "Chemical Composition": "SiO2",
-        "Crystal System": "hexagonal",
+        "Specific Gravity": "2.70 (low)",
+        "Chemical Composition": "(Ca, Na)(Al, Si)4o8",
+        "Crystal System": "triclinic",
         "Diagnostic Properties":
-            "hardness of 7, absence of cleavage, conchoidal fractures",
+            "hardness of 6, 2 sets of cleavage, conchoidal fractures",
     };
 </script>
 
 <main>
-    <Heading1 text="Quartz"></Heading1>
+    <Heading1 text="Labradorite"></Heading1>
 
     <Heading2 text="Physical Properties"></Heading2>
 
-    <PPTable mineral={quartz}></PPTable>
+    <PPTable mineral={labradorite}></PPTable>
 
     <Heading2 text="Remarks"></Heading2>
 

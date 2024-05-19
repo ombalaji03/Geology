@@ -1,10 +1,12 @@
 <script>
     import { base } from "$app/paths";
     import Card from "$lib/components/Card.svelte";
+
+    const specimenPath = `${base}/mineralogy/hand-specimen`;
 </script>
 
 <main class="pb-0">
-    <a href="{base}/mineralogy/hand-specimen/quartz">
+    <a href="{specimenPath}/quartz">
         <Card
             text="Quartz"
             color="bg-light0"
@@ -13,33 +15,41 @@
         ></Card>
     </a>
 
-    <Card
-        text="Orthoclase"
-        color="bg-orange"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OrthoclaseBresil.jpg/1920px-OrthoclaseBresil.jpg"
-    ></Card>
+    <a href="{specimenPath}/orthoclase">
+        <Card
+            text="Orthoclase"
+            color="bg-orange"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OrthoclaseBresil.jpg/1920px-OrthoclaseBresil.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Microcline"
-        color="bg-light0"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Microcline-199473.jpg"
-    ></Card>
+    <a href="{specimenPath}/microcline">
+        <Card
+            text="Microcline"
+            color="bg-light0"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Microcline-199473.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Albite"
-        color="bg-light0"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Albite-70858.jpg"
-    ></Card>
+    <a href="{specimenPath}/albite">
+        <Card
+            text="Albite"
+            color="bg-light0"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Albite-70858.jpg"
+        ></Card>
+    </a>
 
-    <Card
-        text="Labradorite"
-        color="bg-frost3"
-        size="text-2xl"
-        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Labradorite_polie_3%28Madagascar%29.jpg/1920px-Labradorite_polie_3%28Madagascar%29.jpg"
-    ></Card>
+    <a href="{specimenPath}/labradorite">
+        <Card
+            text="Labradorite"
+            color="bg-frost3"
+            size="text-2xl"
+            url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Labradorite_polie_3%28Madagascar%29.jpg/1920px-Labradorite_polie_3%28Madagascar%29.jpg"
+        ></Card>
+    </a>
 
     <Card
         text="Muscovite"
