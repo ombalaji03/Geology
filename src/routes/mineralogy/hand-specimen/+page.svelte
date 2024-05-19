@@ -209,12 +209,14 @@
         url="https://www.dakotamatrix.com/images/products/biotite34685b.jpg"
     ></Card>
 
-    <Card
-        text="Topaz"
-        color="bg-dark2"
-        size="text-2xl"
-        url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/05/Staurolite-37001.jpg?fit=450%2C548&ssl=1"
-    ></Card>
+    <a href="{specimenPath}/topaz">
+        <Card
+            text="Topaz"
+            color="bg-dark2"
+            size="text-2xl"
+            url="https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/05/Staurolite-37001.jpg?fit=450%2C548&ssl=1"
+        ></Card>
+    </a>
 
     <Card
         text="Tourmaline"
