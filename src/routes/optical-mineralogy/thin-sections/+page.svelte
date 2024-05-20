@@ -11,4 +11,8 @@
     <a href="{base}/optical-mineralogy/thin-sections/garnet">
         <HeadingX text="Garnet" color="bg-light0" size="text-2xl"></HeadingX>
     </a>
+
+    <a href="{base}/optical-mineralogy/thin-sections/biotite">
+        <HeadingX text="Biotite" color="bg-light0" size="text-2xl"></HeadingX>
+    </a>
 </main>
