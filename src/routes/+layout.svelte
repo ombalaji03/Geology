@@ -1,6 +1,8 @@
 <script>
-    import { base } from "$app/paths";
+    // import { base } from "$app/paths";
     import "../app.css";
+
+    const base = process.argv.includes("dev") ? "" : "/geology";
 </script>
 
 <nav
