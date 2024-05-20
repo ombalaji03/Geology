@@ -1,7 +1,7 @@
 <script>
     import Heading1 from "$lib/components/headings/Heading1.svelte";
     import Heading2 from "$lib/components/headings/Heading2.svelte";
-    import PPTable from "$lib/components/tables/PPTable.svelte";
+    import PropTable from "$lib/components/tables/PropTable.svelte";
 
     const topaz = {
         Color: "orange",
@@ -24,7 +24,7 @@
 
     <Heading2 text="Physical Properties"></Heading2>
 
-    <PPTable mineral={topaz}></PPTable>
+    <PropTable properties={topaz}></PropTable>
 
     <Heading2 text="Remarks"></Heading2>
 

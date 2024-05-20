@@ -1,7 +1,7 @@
 <script>
     import Heading1 from "$lib/components/headings/Heading1.svelte";
     import Heading2 from "$lib/components/headings/Heading2.svelte";
-    import PPTable from "$lib/components/tables/PPTable.svelte";
+    import PropTable from "$lib/components/tables/PropTable.svelte";
 
     const nepheline = {
         Color: "white",
@@ -23,7 +23,7 @@
 
     <Heading2 text="Physical Properties"></Heading2>
 
-    <PPTable mineral={nepheline}></PPTable>
+    <PropTable properties={nepheline}></PropTable>
 
     <Heading2 text="Remarks"></Heading2>
 
