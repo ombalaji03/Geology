@@ -15,7 +15,7 @@
     };
 
     const xplProperties = {
-        "Isotropic/Anisotropic": "ISO_ANISO",
+        "Iso/Aniso": "ISO_ANISO",
         "Interference Color": "INTERFERENCE_COLOR",
         "Extinction Angle": "EXTINCTION_ANGLE",
         Twinning: "TWINNING",
