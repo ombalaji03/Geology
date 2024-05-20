@@ -7,4 +7,8 @@
     <a href="{base}/optical-mineralogy/thin-sections/quartz">
         <HeadingX text="Quartz" color="bg-light0" size="text-2xl"></HeadingX>
     </a>
+
+    <a href="{base}/optical-mineralogy/thin-sections/garnet">
+        <HeadingX text="Garnet" color="bg-light0" size="text-2xl"></HeadingX>
+    </a>
 </main>
