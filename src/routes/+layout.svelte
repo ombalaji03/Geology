@@ -7,7 +7,7 @@
 <nav
     class="mb-0 p-4 bg-dark0 text-2xl font-bold border-b-[1px] border-dark1 drop-shadow-lg"
 >
-    <a href="{base}/">Geology</a>
+    <div class="inline-block"><a href="{base}/">Geology</a></div>
 </nav>
 
 <!-- Back Button -->
