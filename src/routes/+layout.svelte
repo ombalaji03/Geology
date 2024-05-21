@@ -1,6 +1,6 @@
 <script>
     import { goto } from "$app/navigation";
-    // import { base } from "$app/paths";
+    import { base } from "$app/paths";
     import { page } from "$app/stores";
     import "../app.css";
 
@@ -17,19 +17,16 @@
         }
     }
 
-    // function home() {
-    //     if (base.includes("geology")) return base + "/";
-    //     else return base + "/geology";
-    // }
-
-    let base = process.argv.includes("dev") ? "" : "/geology";
+    function home() {
+        goto(base);
+    }
 </script>
 
 <!-- Navigation Bar -->
 <nav
     class="mb-0 p-4 bg-dark0 text-2xl font-bold border-b-[1px] border-dark1 drop-shadow-lg"
 >
-    <a href="{base}/"><div class="inline-block">Geology</div></a>
+    <button on:click={home} class="inline-block">Geology</button>
 </nav>
 
 <!-- Back Button -->
