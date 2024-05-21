@@ -1,15 +1,14 @@
 <script>
     import { base } from "$app/paths";
+    import { page } from "$app/stores";
     import "../app.css";
-
-    const homebase = process.argv.includes("dev") ? "" : "/geology";
 </script>
 
 <!-- Navigation Bar -->
 <nav
     class="mb-0 p-4 bg-dark0 text-2xl font-bold border-b-[1px] border-dark1 drop-shadow-lg"
 >
-    <a href="{homebase}/"><div class="inline-block">Geology</div></a>
+    <a href="{$page.url.origin}/"><div class="inline-block">Geology</div></a>
 </nav>
 
 <!-- Back Button -->
