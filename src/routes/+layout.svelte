@@ -11,11 +11,11 @@
 </nav>
 
 <!-- Back Button -->
-<nav
+<div
     class="mt-4 py-2 px-4 inline-block bg-dark0 border-[1px] border-dark1 drop-shadow-lg border-l-0"
 >
     <a href="{base}/"> Back </a>
-</nav>
+</div>
 
 <slot />
 
