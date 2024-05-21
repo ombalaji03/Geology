@@ -1,7 +1,7 @@
 <script>
     import { goto } from "$app/navigation";
     import { base } from "$app/paths";
-    import { page } from "$app/stores";
+    import { navigating, page } from "$app/stores";
     import "../app.css";
 
     function isBackButtonVisible() {
@@ -32,6 +32,7 @@
     let menuVisibility = false;
 
     function toggleMenu() {
+        console.log(menuVisibility);
         menuVisibility = !menuVisibility;
     }
 </script>
@@ -86,6 +87,12 @@
         >
             <button on:click={back}> Back </button>
         </div>
+    {/if}
+{/key}
+
+{#key $navigating}
+    {#if $navigating?.complete && menuVisibility == true}
+        <div class="hidden">{toggleMenu()}</div>
     {/if}
 {/key}
 
