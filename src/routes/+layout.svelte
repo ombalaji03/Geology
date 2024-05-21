@@ -1,6 +1,8 @@
 <script>
     import { base } from "$app/paths";
     import "../app.css";
+
+    // const homebase = "/geology";
 </script>
 
 <!-- Navigation Bar -->
