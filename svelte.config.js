@@ -9,8 +9,8 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		paths: {
-			// base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-			base: process.argv.includes('dev') ? '' : "/geology"
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+			// base: process.argv.includes('dev') ? '' : "/geology"
 		}
 	},
 	preprocess: vitePreprocess()
