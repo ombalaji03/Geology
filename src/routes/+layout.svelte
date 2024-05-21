@@ -16,6 +16,11 @@
             // do nothing
         }
     }
+
+    // function home() {
+    //     if (base.includes("geology")) return base + "/";
+    //     else return base + "/geology";
+    // }
 </script>
 
 <!-- Navigation Bar -->
