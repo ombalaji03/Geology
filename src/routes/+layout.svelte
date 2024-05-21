@@ -18,7 +18,8 @@
     }
 
     function home() {
-        goto(base);
+        if ($page.url.pathname.includes("geology")) goto(base);
+        else goto($page.url.origin);
     }
 </script>
 
