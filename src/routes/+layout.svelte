@@ -1,6 +1,6 @@
 <script>
     import { goto } from "$app/navigation";
-    import { base } from "$app/paths";
+    // import { base } from "$app/paths";
     import { page } from "$app/stores";
     import "../app.css";
 
@@ -21,6 +21,8 @@
     //     if (base.includes("geology")) return base + "/";
     //     else return base + "/geology";
     // }
+
+    let base = process.argv.includes("dev") ? "" : "/geology";
 </script>
 
 <!-- Navigation Bar -->
