@@ -2,6 +2,7 @@
     import { goto } from "$app/navigation";
     import { base } from "$app/paths";
     import { page } from "$app/stores";
+    import PropTable from "$lib/components/tables/PropTable.svelte";
     import "../app.css";
 
     function back() {
@@ -25,9 +26,15 @@
 
 <!-- Navigation Bar -->
 <nav
-    class="mb-0 p-4 bg-dark0 text-2xl font-bold border-b-[1px] border-dark1 drop-shadow-lg"
+    class="flex justify-start mb-0 bg-dark0 text-2xl font-bold border-b-[1px] border-dark1 drop-shadow-lg"
 >
-    <button on:click={home} class="inline-block">Geology</button>
+    <div class="p-4 bg-frost3 flex items-center">
+        <span class="material-symbols-outlined items-center"> menu </span>
+    </div>
+
+    <div class="flex justify-center w-full p-4">
+        <button on:click={home} class="inline-block">Geology</button>
+    </div>
 </nav>
 
 <!-- Back Button -->
