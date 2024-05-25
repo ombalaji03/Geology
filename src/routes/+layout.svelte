@@ -90,8 +90,10 @@
     {/if}
 {/key}
 
+<!-- Navigation Observer -->
+<!-- close hamburger menu on page change -->
 {#key $navigating}
-    {#if $navigating?.complete && menuVisibility == true}
+    {#if $navigating && menuVisibility == true}
         <div class="hidden">{toggleMenu()}</div>
     {/if}
 {/key}
