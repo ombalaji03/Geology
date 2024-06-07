@@ -8,4 +8,9 @@
         <HeadingX text="Thin Sections" color="bg-light0" size="text-2xl"
         ></HeadingX>
     </a>
+
+    <a href="{base}/optical-mineralogy/polarizing-microscope">
+        <HeadingX text="Polarizing Microscope" color="bg-light0" size="text-2xl"
+        ></HeadingX></a
+    >
 </main>
